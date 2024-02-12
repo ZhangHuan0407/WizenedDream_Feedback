@@ -4,7 +4,7 @@ Withered Dream is a 2D story exploration game based on card stacking and limited
 # Store
 - [Demo](https://zhanghuan0407.github.io/WizenedDream_Feedback/WizenedDream/)
   - WebGL, no achievement, no saving
-  - Version 0.3.16
+  - Version 0.3.27
 
 - [Steam](https://store.steampowered.com/app/2640600/_/)
   - Windows 64 and MacOS(M1)
